@@ -15,6 +15,10 @@
 .pizza-bg-primary {
 	background-color: #F3A603 !important;
 }
+
+.pizza-bg-secondary {
+	background-color: #202020 !important;
+}
 /*
     ======
 	COLORS
@@ -130,6 +134,7 @@
 	letter-spacing: 55px;
 	font-size: 3em;
 	padding-top: 13.5rem;
+	text-shadow: 3px 2px black;
 
 
 }
@@ -891,6 +896,7 @@ img[alt*="pro"] {
 	font-size: 2em;
 	padding-top: 13.5rem;
 	margin-right:-36px;
+	text-shadow: 3px 2px black;
 
 
 }
@@ -1038,6 +1044,7 @@ img[alt*="len"]{
 	font-family: Impact;
 	letter-spacing: 25px;
 	font-size: 2.5em;
+	text-shadow: 3px 2px black;
 	/*padding-top: 13.5rem;*/
 	
 }
